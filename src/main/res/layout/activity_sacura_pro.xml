@@ -9,7 +9,6 @@
     android:backgroundTint="#4C90AF"
     android:backgroundTintMode="src_in"
     android:foregroundTint="#030004"
-    android:rotationY="-13"
     tools:context=".SacuraPro">
 
 
